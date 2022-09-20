@@ -63,3 +63,16 @@ Video call link: https://meet.google.com/xsb-owps-pwp
 ```python
 s = "hello world"
 print(s)
+```
+
+---
+
+```JavaScript
+var s = "JavaScript syntax hilighting";
+alert(s);
+```
+
+| **Markdown**        | **Less**           | **Pretty**  |
+| :------------- |:-------------| :-----|
+|Still          | `renders`     |**nicely**|
+|1              |2              |3         |
