@@ -59,3 +59,7 @@ Video call link: https://meet.google.com/xsb-owps-pwp
 💩
 ---
 ![obama](obama.jpg "obama")
+
+```python
+s = "hello world"
+print(s)
