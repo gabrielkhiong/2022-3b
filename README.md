@@ -56,3 +56,5 @@ Video call link: https://meet.google.com/xsb-owps-pwp
 
 🧁
 💩
+---
+![obama](obama.jpg "obama")
