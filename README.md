@@ -44,3 +44,15 @@ Video call link: https://meet.google.com/xsb-owps-pwp
 4. ddd
 
 [Tetris](https://tetris.com/play-tetris)
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 第三欄        | 靠右對齊      | $1600 |
+| 第二欄        | 置中對齊      |   $12 |
+| 斑馬條紋      | 是整齊的      |    $1 |
+
+---
+
+🧁
+💩
