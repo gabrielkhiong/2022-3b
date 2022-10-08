@@ -1,2 +1,2 @@
 ![](gante.png "gantt Graph")
-![](pert.png "pert Graph")
+![](Pert.png "pert Graph")
